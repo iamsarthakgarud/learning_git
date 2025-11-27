@@ -1,2 +1,2 @@
 print("sarthak")
-print("Garud ")
+print("Garud")
